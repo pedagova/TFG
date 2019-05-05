@@ -1,0 +1,31 @@
+{
+    "square":{
+        "form":[[0, 0], [0, 1], [1, 0], [1, 1]],
+        "type":"square"
+    },
+    "stick":{
+        "form":[[0, 0], [1, 0], [2, 0], [3, 0]],
+        "type":"stick"
+    },
+    "tPiece":{
+        "form":[[0, 0], [1, 0], [2, 0], [1, 1]],
+        "type":"tPiece"
+    },
+    "lPieceR":{
+        "form":[[0, 0], [1, 0], [2, 0], [0, 1]],
+        "type":"lPieceR"
+    },
+    "lPieceL":{
+        "form":[[0, 1], [1, 1], [2, 1], [0, 0]],
+        "type":"lPieceL"
+    },
+    "zPieceR":{
+        "form": [[0, 1], [0, 2], [1, 0], [1, 1]],
+        "type":"zPieceR"
+    },
+    "zPieceL":{
+        "form": [[0, 0], [0, 1], [1, 1], [1, 2]],
+        "type":"zPieceL"
+    }
+
+}
